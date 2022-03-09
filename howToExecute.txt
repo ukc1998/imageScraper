@@ -1,0 +1,8 @@
+How to execute this code
+
+# Step 1 : pip install selenium.
+# Step 2 : Make sure you have chrome browser installed on your machine.
+# Step 3 : Check your chrome browser version ( go to three dot on the top-right corner and then then click help and then click about google chrome ) E.g.- Version 98.0.4758.102
+# Step 4 : Download the same chrome driver from here  " https://chromedriver.storage.googleapis.com/index.html "
+# Step 5 : Replace the existing driver with the same chrome driver inside the same folder of this code and unzip it.
+# Step 6: Now, you may execute the code.
